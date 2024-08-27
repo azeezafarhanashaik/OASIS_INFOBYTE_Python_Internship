@@ -17,15 +17,15 @@ This repository showcases my work and learning experience during the OASIS InfoB
 
 ### Task 1: BMI Calculator
 - Description: A simple BMI (Body Mass Index) calculator that takes user input for weight and height and calculates the BMI.
-- File: `Task1/BMI.py`
+- File: `BMI.py`
 
 ### Task 2: Password Generator
 - Description: A program that generates random passwords based on user-defined criteria, such as length and character types.
-- File: `Task2/Password_Generator.py`
+- File: `Password_Generator.py`
 
 ### Task 3: Weather App
 - Description: A weather application that fetches and displays weather information based on user input for location.
-- File: `Task3/Weather_App.py`
+- File: `Weather_App.py`
 
 ## Technologies Used
 
