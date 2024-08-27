@@ -8,8 +8,6 @@ Welcome to the OASIS InfoByte Python Internship repository! This repository cont
 - [Projects](#projects)
 - [Technologies Used](#technologies-used)
 - [How to Run the Projects](#how-to-run-the-projects)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
